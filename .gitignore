@@ -1,0 +1,6 @@
+# 运行记录（容器内落在命名卷 /app/data；本地直跑落在 ./data）
+data/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
